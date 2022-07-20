@@ -1,1 +1,1 @@
-# Using_mouse_with-OpenCV
+Install all necessary package with this command # pip freeze -r requirements.txt
